@@ -1,0 +1,7 @@
+COIN_NAME="volt"
+COIN_PATH="/usr/local/bin/"
+COIN_DAEMON="voltd"
+COIN_CLI="volt-cli"
+COIN_FOLDER="/root/.volt"
+COIN_CONFIG="volt.conf"
+COIN_SERVICE="volt.service"
